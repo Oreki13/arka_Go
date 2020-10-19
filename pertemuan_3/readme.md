@@ -34,7 +34,7 @@ func StartHttp() http.Handler {
 
 <p align="center">
     <span>
-      <img src="https://raw.githubusercontent.com/Oreki13/pertemuan_3/master/ss/get.png" width="500px" />
+      <img src="https://raw.githubusercontent.com/Oreki13/arka_go/master/pertemuan_3/ss/get.png" width="500px" />
       &nbsp;&nbsp;
     </span>
   </p>
@@ -43,7 +43,7 @@ func StartHttp() http.Handler {
 
 <p align="center">
     <span>
-      <img src="https://raw.githubusercontent.com/Oreki13/pertemuan_3/master/ss/post.png" width="500px" />
+      <img src="https://raw.githubusercontent.com/Oreki13/arka_go/master/pertemuan_3/ss/post.png" width="500px" />
       &nbsp;&nbsp;
     </span>
   </p>
@@ -52,7 +52,7 @@ func StartHttp() http.Handler {
 
 <p align="center">
     <span>
-      <img src="https://raw.githubusercontent.com/Oreki13/pertemuan_3/master/ss/edit.png" width="500px" />
+      <img src="https://raw.githubusercontent.com/Oreki13/arka_go/master/pertemuan_3/ss/edit.png" width="500px" />
       &nbsp;&nbsp;
     </span>
   </p>
@@ -61,7 +61,7 @@ func StartHttp() http.Handler {
 
 <p align="center">
     <span>
-      <img src="https://raw.githubusercontent.com/Oreki13/pertemuan_3/master/ss/delete.png" width="500px" />
+      <img src="https://raw.githubusercontent.com/Oreki13/arka_go/master/pertemuan_3/ss/delete.png" width="500px" />
       &nbsp;&nbsp;
     </span>
   </p>
