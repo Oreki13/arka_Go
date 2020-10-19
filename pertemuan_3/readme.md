@@ -28,7 +28,7 @@ func StartHttp() http.Handler {
 
 4. Create you logic func on `User.go` 
 
-# ScreesShot
+# Screenshot
 
 1. Get Methode 
 
